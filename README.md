@@ -18,4 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tashidu&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![GitHub Snake Light](https://github.com/tashidu/tashidu/blob/output/github-snake.svg)
+
+![GitHub Snake Dark](https://github.com/tashidu/tashidu/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
