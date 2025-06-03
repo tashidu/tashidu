@@ -22,5 +22,8 @@
 
 ![GitHub Snake Dark](https://github.com/tashidu/tashidu/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
+![Snake animation](https://raw.githubusercontent.com/<your-username>/<your-repo-name>/output/github-snake.svg)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
