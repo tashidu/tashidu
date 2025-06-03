@@ -18,11 +18,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=tashidu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Snake Light](https://github.com/tashidu/tashidu/blob/output/github-snake.svg)
+### Light Mode Snake
+![GitHub Snake Light](https://raw.githubusercontent.com/tashidu/tashidu/output/github-snake.svg)
 
-![GitHub Snake Dark](https://github.com/tashidu/tashidu/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+### Dark Mode Snake
+![GitHub Snake Dark](https://raw.githubusercontent.com/tashidu/tashidu/output/github-snake-dark.svg)
 
-![Snake animation](https://raw.githubusercontent.com/<your-username>/<your-repo-name>/output/github-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/tashidu/tashidu/output/github-snake.svg)
 
 
 
