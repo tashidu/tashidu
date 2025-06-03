@@ -40,63 +40,75 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tashidu&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data**
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-> 📦 ? kB Used in GitHub's Storage
- >
-> 🏆 ? Contributions in the Year 2025
- >
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.5%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 322.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 244 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
- >
-> 📜 ? Public Repositories
- >
-> 🔑 ? Private Repositories
- >
-**I'm an Early 🐤**
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 16 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                ? commits         ████░░░░░░░░░░░░░░░░░░░░░   ?.?? %
-🌆 Daytime                ? commits         ████████████░░░░░░░░░░░░░   ?.?? %
-🌃 Evening                ? commits         ████████░░░░░░░░░░░░░░░░░   ?.?? %
-🌙 Night                  ? commits          ██░░░░░░░░░░░░░░░░░░░░░░░   ?.?? %
+🌞 Morning                253 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+🌆 Daytime                1281 commits        ███████████░░░░░░░░░░░░░░   44.05 % 
+🌃 Evening                1056 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌙 Night                  318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   783 commits         ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+Tuesday                  567 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Wednesday                279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Friday                   335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Sunday                   308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Colombo
+🕑︎ Time Zone: Asia/Colombo
 
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System:
+💻 Operating System: 
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in HTML** 
 
 ```text
-JavaScript               ? repos             ████████████████████████░   ??.?? %
-Python                   ? repos             ████████░░░░░░░░░░░░░░░░░   ??.?? %
-HTML                     ? repos             ████░░░░░░░░░░░░░░░░░░░░░   ??.?? %
-CSS                      ? repos             ██░░░░░░░░░░░░░░░░░░░░░░░   ??.?? %
-TypeScript               ? repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   ??.?? %
+HTML                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+PHP                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
-**Timeline**
-
-![Lines of Code chart by date](https://raw.githubusercontent.com/tashidu/tashidu/main/assets/bar_graph.png)
 
 
- Last Updated on ?/?/2025, ??:?? AM UTC
+ Last Updated on 03/06/2025 09:32:44 UTC
 <!--END_SECTION:waka-->
 
 </div>
