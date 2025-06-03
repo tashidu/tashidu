@@ -36,6 +36,9 @@
 <div align="center">
 
 ### ⏰ WakaTime Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=tashidu&color=blueviolet&style=flat-square&label=Profile+Views)
+
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data**
 
