@@ -7,6 +7,7 @@
 
 ## 🎯 About Me
 
+- 🎓 I'm currently studying **Industrial Management** at **University of Kelaniya**
 - 🔭 I'm currently working on **exciting full-stack projects**
 - 🌱 I'm currently learning **Advanced AI/ML and Cloud Technologies**
 - 👯 I'm looking to collaborate on **open source projects**
@@ -18,115 +19,116 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tashidu)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tashidu)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tashidu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://tashidu.dev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tashidu-vinuka-348399213/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/TVinuka44382)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_t_a_s_h_i_d_u_/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015728109424)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinukatashidu@gmail.com)
 
 </div>
 
 # 💻 Tech Stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-### 🌟 Project Showcase
-
-<table>
-<tr>
-<td width="50%">
-
-**📱 Full-Stack Mobile App**
-- React Native & Node.js backend
-- MongoDB database integration
-- JWT authentication system
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/tashidu/mobile-app)
-[![Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔥 Django REST API**
-- Scalable backend architecture
-- PostgreSQL database
-- Docker containerization
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/tashidu/django-api)
-[![Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
-
-</td>
-<td width="50%">
-
-**⚡ Next.js Portfolio**
-- Server-side rendering
-- Tailwind CSS styling
-- Optimized performance
-
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/tashidu/portfolio)
-[![Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://your-demo-link.com)
-
-</td>
-</tr>
-</table>
-
-</div>
 ## 📈 Coding Activity & Metrics
 
 <div align="center">
 
 ### ⏰ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C000%20hrs%2045%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1234-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-500%20Thousand%20lines%20of%20code-blue)
-
 **🐱 My GitHub Data**
 
-> 📦 150.2 kB Used in GitHub's Storage
+> 📦 ? kB Used in GitHub's Storage
  >
-> 🏆 250 Contributions in the Year 2024
+> 🏆 ? Contributions in the Year 2025
  >
 > 💼 Opted to Hire
  >
-> 📜 25 Public Repositories
+> 📜 ? Public Repositories
  >
-> 🔑 15 Private Repositories
+> 🔑 ? Private Repositories
  >
 **I'm an Early 🐤**
 
 ```text
-🌞 Morning                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   20.00 %
-🌆 Daytime                200 commits         ████████████░░░░░░░░░░░░░   40.00 %
-🌃 Evening                150 commits         ████████░░░░░░░░░░░░░░░░░   30.00 %
-🌙 Night                  50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+🌞 Morning                ? commits         ████░░░░░░░░░░░░░░░░░░░░░   ?.?? %
+🌆 Daytime                ? commits         ████████████░░░░░░░░░░░░░   ?.?? %
+🌃 Evening                ? commits         ████████░░░░░░░░░░░░░░░░░   ?.?? %
+🌙 Night                  ? commits          ██░░░░░░░░░░░░░░░░░░░░░░░   ?.?? %
 ```
+
+
+📊 **This Week I Spent My Time On**
+
+```text
+⌚︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages:
+No Activity Tracked This Week
+
+🔥 Editors:
+No Activity Tracked This Week
+
+🐱‍💻 Projects:
+No Activity Tracked This Week
+
+💻 Operating System:
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+JavaScript               ? repos             ████████████████████████░   ??.?? %
+Python                   ? repos             ████████░░░░░░░░░░░░░░░░░   ??.?? %
+HTML                     ? repos             ████░░░░░░░░░░░░░░░░░░░░░   ??.?? %
+CSS                      ? repos             ██░░░░░░░░░░░░░░░░░░░░░░░   ??.?? %
+TypeScript               ? repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   ??.?? %
+```
+
+
+**Timeline**
+
+![Lines of Code chart by date](https://raw.githubusercontent.com/tashidu/tashidu/main/assets/bar_graph.png)
+
+
+ Last Updated on ?/?/2025, ??:?? AM UTC
 <!--END_SECTION:waka-->
 
 </div>
 
-## 🏅 Achievements & Certifications
+
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 🎖️ Professional Certifications
-![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect-orange?style=for-the-badge&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Professional-blue?style=for-the-badge&logo=google-cloud)
-![Microsoft](https://img.shields.io/badge/Microsoft-Azure%20Developer-blue?style=for-the-badge&logo=microsoft-azure)
+### 📈 My GitHub Journey
 
+<table>
+<tr>
+<td width="50%">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tashidu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+</td>
+<td width="50%">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=tashidu&theme=radical&hide_border=true)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tashidu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+</td>
+</tr>
+</table>
 
 </div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tashidu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tashidu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tashidu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tashidu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
