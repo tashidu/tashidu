@@ -167,11 +167,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ### ⚡ Productivity Metrics
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tashidu&theme=react-dark&hide_border=true)
 
-### 🔥 Contribution Heatmap
-![Contribution Heatmap](https://ghchart.rshah.org/2196F3/tashidu)
-
-### 📊 Repository Analytics
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=tashidu&repo=your-best-repo&theme=radical&hide_border=true)
 
 </div>
 
