@@ -155,43 +155,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tashidu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🎨 Dynamic Content
 
-<div align="center">
-
-### 🎵 Currently Playing on Spotify
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/tashidu)
-
-### 🌤️ Current Weather
-![Weather](https://wttr.in/YourCity.png?width=300)
-
-### 😄 Daily Dose of Humor
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
-
-### 💭 Inspirational Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-## 📚 Latest Blog Posts & Articles
-
-<div align="center">
-
-### ✍️ Recent Technical Writing
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications with TypeScript](https://dev.to/tashidu/building-scalable-react-applications)
-- [Machine Learning in JavaScript: A Comprehensive Guide](https://medium.com/@tashidu/ml-in-javascript)
-- [Optimizing Node.js Performance: Best Practices](https://hashnode.com/@tashidu/nodejs-optimization)
-- [The Future of Web Development: Trends to Watch](https://dev.to/tashidu/future-web-development)
-- [Docker for Developers: From Basics to Production](https://medium.com/@tashidu/docker-for-developers)
-<!-- BLOG-POST-LIST:END -->
-
-[![Blog](https://img.shields.io/badge/Read%20More-Articles-blue?style=for-the-badge&logo=hashnode)](https://tashidu.hashnode.dev)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@tashidu)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-black?style=for-the-badge&logo=dev.to)](https://dev.to/tashidu)
-
-</div>
 
 ## 📊 Advanced Analytics & Insights
 
