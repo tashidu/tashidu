@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Tashidu
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
 ## 🎯 About Me
@@ -10,7 +10,6 @@
 - 🎓 I'm currently studying **Industrial Management** at **University of Kelaniya**
 - 🔭 I'm currently working on **exciting full-stack projects**
 - 🌱 I'm currently learning **Advanced AI/ML and Cloud Technologies**
-- 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, Python, and Machine Learning**
 - 📫 How to reach me: **vinukatashidu@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems and building innovative solutions!**
@@ -24,7 +23,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_t_a_s_h_i_d_u_/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015728109424)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinukatashidu@gmail.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dev-tashidus-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dev-tashidus-projects.vercel.app/)
 
 
 </div>
