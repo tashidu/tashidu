@@ -23,7 +23,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_t_a_s_h_i_d_u_/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015728109424)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinukatashidu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://dev-tashidus-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://dev-tashidus-projects.vercel.app/)
 
 
 </div>
@@ -47,7 +47,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 471.4 kB Used in GitHub's Storage 
+
  > 
 > 💼 Opted to Hire
  > 
